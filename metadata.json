@@ -1,0 +1,6 @@
+{
+  "name": "PackSwipe",
+  "description": "A trip-packing assistant for mobile web that turns stressful checklists into quick, satisfying 1-by-1 decisions.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
